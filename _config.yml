@@ -1,8 +1,7 @@
 name: Permaculture
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.49225
-title: An Adventure in permiculture.
+layout_spectrum: 0.012273649452254176
+typography_spectrum: 0.3838753628078848
 cta:
   domain: null
   bucket: null
@@ -17,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ecf1f7'
-    - '#090b0a'
-    - '#827e7b'
-    - '#454640'
-    - '#afcee0'
-  brandStrength: 0.5
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.09575844532810152
   lightness: 0.4583050855435431
   saturation: 0.1344085216987878
   rhythmicContrast: 0.3475228368770331

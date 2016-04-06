@@ -1,0 +1,29 @@
+name: Permaculture
+favicon: null
+layout_spectrum: 0.74669
+typography_spectrum: 0.49225
+title: An Adventure in permaculture.
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#fefefe'
+    - '#8d9dad'
+    - '#020401'
+    - '#24370a'
+    - '#a95855'
+  brandStrength: 0.5
+  lightness: 0.4583050855435431
+  saturation: 0.1344085216987878
+  rhythmicContrast: 0.3475228368770331
+purpose: []
